@@ -57,7 +57,7 @@ npm install
 npm run dev
 ```
 
-The application should now be running and accessible at `http://localhost:3000`.
+The application should now be running and accessible at `http://localhost:5173`.
 
 ## Usage
 
